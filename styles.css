@@ -1,0 +1,19 @@
+
+table { border-collapse: collapse; width: 100%; }
+th, td { border: 1px solid black; padding: 8px; text-align: left; }
+th { background-color: #f2f2f2; }
+h3 { color: #444; }
+a { text-decoration: none; color: #0066cc; }
+a:hover { color: #003399; }
+.screenshot { width: 100%; height: auto; margin: 10px 0; }
+.developer { border: 1px solid black; }
+.description p { padding-right: 500px; }
+.screenshot-list img {
+    width: 200px; /* Adjust as needed */
+    height: auto; /* Maintain aspect ratio */
+    border: solid black 1px;
+    
+}
+ul{
+    list-style-type: none !important;
+}
